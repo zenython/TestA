@@ -33,3 +33,6 @@ playcanvas.com
 launch.playcanvas.com
 bitmoji.com
 bitstrips.com
+support.snapchat.com
+returns.spectacles.com
+dev.playcanv.as
